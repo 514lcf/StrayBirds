@@ -116,13 +116,13 @@ disqus:
 #################################### global configure #######################################
 
 username: 514lcf
-baseurl: /Leong
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 初心
 description: 一切若只如初见
-theme: kunka
+theme: midnight
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
